@@ -12,3 +12,4 @@ prinano na WEBU 2.0
 prinano na WEBU 3.0
 
 pridano ve VS19 1.0
+pridano ve VS19 2.0
