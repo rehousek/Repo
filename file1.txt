@@ -6,3 +6,6 @@ toto je soubor pro testování
 TEST 2
 TEST 2
 TEST 2
+
+# BRANCH 2
+test BR 1.0
